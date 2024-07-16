@@ -1,9 +1,9 @@
 ### :books: Education & Career
 
-- 🏫 Korea Aerospace University Electronics Engineering 🏫
-- 🦁 LIKE LION KAU 11th Back-end Team Member 🦁
-- 💻 Programmers dev-course 1th Back-end taking a course 💻
-- 📃 정보처리기사 📃
+ 🏫 Korea Aerospace University Electronics Engineering 🏫<br>
+ 🦁 LIKE LION KAU 11th Back-end Team Member 🦁<br>
+ 💻 Programmers dev-course 1th Back-end taking a course 💻<br>
+ 📃 정보처리기사 📃<br>
 
 
 <br />
