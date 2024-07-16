@@ -13,7 +13,6 @@
 
 ### ✨ Tech Stack
 
-> Techs that I've used at least one
 
 <p>
   <b>Backend　</b>
