@@ -3,7 +3,28 @@
  🏫 Korea Aerospace University Electronics Engineering 🏫(2020.03 ~ 2024.08)<br>
  🦁 LIKE LION KAU 11th Back-end Team Member 🦁 (2023.03 ~ 2023.12) <br>
  💻 Programmers dev-course 1th Back-end taking a course 💻(2024.07 ~ 2024.12)<br>
- 📃 정보처리기사,sqld 📃<br>
+
+ <table border="0" style="border-collapse: collapse;">
+  <tr>
+    <!-- 첫 번째 열 헤더 -->
+    <th style="padding: 0 1rem;">자격증 📃</th>
+    <!-- 두 번째 열 헤더 -->
+    <th style="padding: 0 1rem;">수상내역 🏆</th>
+  </tr>
+  <tr>
+    <!-- 첫 번째 열의 내용 -->
+    <td style="padding: 0 1rem;">
+       정보처리기사 2024.06 <br>
+      sqld 2024.12
+    </td>
+    <!-- 두 번째 열의 내용 -->
+    <td style="padding: 0 1rem;">
+      프로그래머스 데브코스 성적우수 2024.12 <br>
+      한국항공대학교 종합설계 우수 2024.07 <br>
+      한국항공대학교 2023 ICT 융합 프로젝트 경진대회 2023.12
+    </td>
+  </tr>
+</table>
 
 
 <br />
