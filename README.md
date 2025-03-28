@@ -2,7 +2,7 @@
 
  🏫 Korea Aerospace University Electronics Engineering 🏫(2020.03 ~ 2024.08)<br>
  🦁 LIKE LION KAU 11th Back-end Team Member 🦁 (2023.03 ~ 2023.12) <br>
- 💻 Programmers dev-course 1th Back-end taking a course 💻(2024.07 ~ 2024.12)<br>
+ 💻 Programmers dev-course 1th Back-end course 💻(2024.07 ~ 2024.12)<br>
 
  <table border="0" style="border-collapse: collapse;">
   <tr>
